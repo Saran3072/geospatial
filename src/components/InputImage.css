@@ -1,0 +1,24 @@
+.model h2{
+    font-size: 16px;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+input[type=file] {
+    width: 220px;
+    padding: 5px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    height: 50px;
+    font-family: sans-serif;
+  }
+
+  input[accept=image] {
+    width: 50px;
+    padding: 5px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    height: 50px;
+    font-family: sans-serif;
+  }
+  
